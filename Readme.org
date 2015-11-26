@@ -1,14 +1,12 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:58:48.961957
-#+TITLE: 五相智識頌
-#+PROPERTY: CBETA_ID X58n1022
-#+PROPERTY: ID KR6e0140
-#+PROPERTY: SOURCE 卍 Xuzangjing Vol. 58, No. 1022
-#+PROPERTY: VOL 58
-#+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+TITLE: 五相智識頌 / X
+#+DATE: 2015-11-26 14:21:16.262282
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         X|【卍續】    |
 
-<pb:KR6e0140_X_000-0620a>
-[[file:KR6e0140_001.txt::001-0620a1][No.1022-A¶]]
-[[file:KR6e0140_001.txt::001-0620a7][五相智識頌]]
-[[file:KR6e0140_001.txt::0623a19][No.1022-B¶]]
+* 目次
+* [[file:KR6e0140_001.txt::001-0620a1][No.1022-A¶]]
+* [[file:KR6e0140_001.txt::001-0620a7][五相智識頌]]
+* [[file:KR6e0140_001.txt::0623a19][No.1022-B¶]]
+* 卷
+** [[file:KR6e0140_001.txt][五相智識頌 1]]
